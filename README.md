@@ -3,6 +3,13 @@
 Code to reproduce paper results (or as close as possible, depending on data-availability). 
 The scripts implement both latent variable methods and a conventional fully explicit EOV procedure to address environmental and operational variability in vibration-based SHM.
 
+## Code:
+
+* *ETH_Blade_visualization.py*: Plot all PSDs from the dataset between undamaged and damaged conditions.
+* *latent_estimation_x.py*: Proposed latent variable approach only considering DSFs (**X**).
+* *latent_estimation_x_xi.py*: Proposed latent variable approach considering both DSFs (**X**) and EOPs (**$\xi$**).
+* *ols_regression.py*: Fully explicit EOV procedure which considers EOPs (**$\xi$**) to mitigate the effects observed on DSFs (**X**).
+
 ## Congress paper:
 
 * [A latent variable approach for mitigation of environmental and operational variability in vibration-based SHM – A linear approach (EWSHM, 2024)](https://www.ndt.net/search/docs.php3?id=29704)
