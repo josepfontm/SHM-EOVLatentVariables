@@ -17,4 +17,3 @@ The scripts implement both latent variable methods and a conventional fully expl
   * Avoid common issues with measured EOPs and DSFs: noise-influence, collinearity and/or acting EOPs not acquired during measurement.
   * Application to a [small-scale wind turbine blade](https://doi.org/10.1002/stc.2660).
   * Presentation of the work at EWSHM2024.
-  * Code to process data from ETH Blade. (TO DO)
