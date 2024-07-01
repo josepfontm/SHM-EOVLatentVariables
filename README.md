@@ -8,7 +8,7 @@ The scripts implement both latent variable methods and a conventional fully expl
 * *ETH_Blade_visualization.py*: Plot all PSDs from the dataset between undamaged and damaged conditions.
 * *latent_estimation_x.py*: Proposed latent variable approach only considering DSFs (**X**).
 * *latent_estimation_x_xi.py*: Proposed latent variable approach considering both DSFs (**X**) and EOPs (**$\xi$**).
-* *ols_regression.py*: Fully explicit EOV procedure which considers EOPs (**$\xi$**) to mitigate the effects observed on DSFs (**X**).
+* *ols_regression.py*: Explicit EOV procedure which considers EOPs (**$\xi$**) to mitigate the effects observed on DSFs (**X**). This procedure is used to benchmark the results obtained.
 
 ## Congress paper:
 
