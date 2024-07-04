@@ -1,0 +1,9 @@
+@misc{SHM-EOVLatentVariables,
+  author = {Font-Moré, Josep},
+  title = {SHM-EOVLatentVariables},
+  year = {2024},
+  month = {june},
+  version = {1.0},
+  howpublished = {\url{https://github.com/josepfontm/SHM-EOVLatentVariables}},
+  note = {GitHub Repository}
+}
