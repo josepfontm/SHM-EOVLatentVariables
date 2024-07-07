@@ -16,4 +16,4 @@ The scripts implement both latent variable methods and a conventional fully expl
   * Estimation of latent variables (DSFs and EOPs) of structures to obtain a comprehensive baseline model.
   * Avoid common issues with measured EOPs and DSFs: noise-influence, collinearity and/or acting EOPs not acquired during measurement.
   * Application to a [small-scale wind turbine blade](https://doi.org/10.1002/stc.2660).
-  * Presentation of the work at EWSHM2024.
+  * [Presentation of the work at EWSHM2024](https://www.researchgate.net/publication/382052055_A_latent_variable_approach_for_mitigation_of_EOV_in_vibration-based_SHM_-_A_linear_approach).
